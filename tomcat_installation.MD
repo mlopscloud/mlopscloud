@@ -2,6 +2,8 @@
 - Java Installation
 - sudo su
 - amazon-linux-extras
+- amazon-linux-extras install java-openjdk11
+- java --version
 ### Pre-requisites
 1. EC2 instance with Java 11
 ### Install Apache Tomcat
