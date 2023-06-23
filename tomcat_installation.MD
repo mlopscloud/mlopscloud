@@ -1,4 +1,7 @@
 # Tomcat installation on EC2 instance
+- Java Installation
+- sudo su
+- amazon-linux-extras
 ### Pre-requisites
 1. EC2 instance with Java 11
 ### Install Apache Tomcat
